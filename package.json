@@ -1,0 +1,23 @@
+{
+	"name": "parcel",
+	"version": "1.0.0",
+	"description": "How to use parcel",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "parcel src/index.html --open"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Akash-barsagadey/parcel.git"
+	},
+	"author": "Akash Barsagadey",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Akash-barsagadey/parcel/issues"
+	},
+	"homepage": "https://github.com/Akash-barsagadey/parcel#readme",
+	"dependencies": {
+		"parcel-bundler": "^1.12.4"
+	}
+}
